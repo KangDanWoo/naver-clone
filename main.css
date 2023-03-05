@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.header-first {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+}
+.header-first-one {
+  font-size: 11px;
+  color: #404040;
+  margin-right: 5px;
+}
+
+.img-one {
+  width: 65px;
+  height: 35px;
+  margin-top: 5px;
+}
+.img-two {
+  width: 60px;
+  height: 30px;
+  margin-bottom: 4px;
+}
+.dogcute {
+  display: flex;
+  align-items: center;
+}
+.headertwo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
